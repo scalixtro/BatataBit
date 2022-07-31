@@ -1,0 +1,35 @@
+/* HEADER */
+.header__title-container .header__button {
+    position: relative;
+    top: 55%;
+    margin: 0 auto;
+}
+
+/* TABLES */
+.main-table-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+/* PRODUCTS */
+.product-cards__container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 930px;
+}
+
+/* CARDS SECTION */
+.plans-container__slider {
+    height: auto;
+    height: 316px;
+    overflow-x: hidden;
+    justify-content: center;
+}
+
+.plan-card__ca {
+    left: 25%;
+}
